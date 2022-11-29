@@ -1,0 +1,1 @@
+{"ip":"syedSmP67.aternos.me","name":"SYED SMP","port":"51401"}
